@@ -1,0 +1,19 @@
+*refacto.nvim.txt* A simple refactoring plugin for Neovim
+
+                               refacto.nvim
+
+==============================================================================
+
+CONTENTS                                 *refacto.nvim-contents*
+
+    1. Introduction .................... |refacto.nvim-intro|
+
+
+Original Author:    Antoine CHINY
+License:            MIT
+
+INTRODUCTION                                *refacto.nvim-intro*
+
+A very simple refactoring plugin in the new remote plugin style used by
+Neovim.
+
